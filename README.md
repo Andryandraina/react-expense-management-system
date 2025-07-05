@@ -4,7 +4,7 @@ A modern web application to efficiently manage daily and monthly expenses.
 Built with **React** for the frontend and **Spring Boot** for the backend — combining simplicity, performance, and clarity.
 
 > 📍 Frontend repository: [`react-expense-management-system`](https://github.com/Andryandraina/react-expense-management-system)  
-> 📍 Backend repository: 
+> 📍 Backend repository: [`Spring-boot-expense-management-system`](https://github.com/Andryandraina/Spring-boot-expense-management-system)
 
 ---
 
